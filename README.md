@@ -16,8 +16,8 @@ Open chat (`Enter`) and type:
 | `/clearvehiclepaths all` | Dismantles **every** vehicle path segment and standalone path node on the map. |
 | `/cvp` | Short alias for all of the above. |
 
-In multiplayer, run it as the host (or on the dedicated server); the path system is
-authoritative server-side.
+In multiplayer, any player can type the command and it executes on the server — that's
+how SML chat commands work — so coordinate before clearing.
 
 **Back up your save before the first run.** Vehicles that were following removed paths will
 stop and need new paths recorded.

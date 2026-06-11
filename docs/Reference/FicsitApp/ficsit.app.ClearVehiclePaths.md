@@ -37,7 +37,7 @@ Open chat (`Enter`) and type:
 
 - **Back up your save first.** The command dismantles paths in one shot; there is no undo besides reloading.
 - **Vehicles using removed paths will stop** where they are and will need new paths recorded. That's the point — but it means your truck network pauses until you re-record routes.
-- In **multiplayer**, run the command as the **host** (or on the dedicated server). The path system lives on the server, so the command politely refuses on clients.
+- In **multiplayer**, the command always executes on the server, no matter which player types it — SML chat commands work that way. There is no host-only restriction, so coordinate with your crew before clearing.
 
 ---
 
@@ -69,7 +69,7 @@ Yes. The mod only removes things; it stores nothing in your save. Install, clean
 
 ### Does it work on dedicated servers?
 
-Yes. The release is packaged for the game client and for dedicated servers on both Windows and Linux, which covers most hosted-server providers. Install the same version on the server and on every client; the command typed in chat executes server-side. Note that any connected player can run chat commands on a dedicated server, so coordinate with your crew before clearing.
+Yes. The release is packaged for the game client and for dedicated servers on both Windows and Linux, which covers most hosted-server providers. Install the same version on the server and on every client. Any player can type the command in chat and it executes on the server — SML chat commands have no permission gate, so coordinate with your crew before clearing.
 
 ---
 
