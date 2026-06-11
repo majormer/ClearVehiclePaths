@@ -1,6 +1,6 @@
 # Clear Vehicle Paths
 
-![Status](https://img.shields.io/badge/Status-Released-brightgreen) ![Version](https://img.shields.io/badge/Version-1.0.0-blue) ![Satisfactory](https://img.shields.io/badge/Satisfactory-1.2-blue) ![Engine](https://img.shields.io/badge/Engine-UE%205.6-blue) ![SML](https://img.shields.io/badge/SML-3.12-blue) ![AI Assisted Development Used](https://img.shields.io/badge/AI%20Assisted%20Development%20Used-Disclosure%20Below-blue)
+![Status](https://img.shields.io/badge/Status-Released-brightgreen) ![Version](https://img.shields.io/badge/Version-1.0.0-blue) ![Satisfactory](https://img.shields.io/badge/Satisfactory-1.2-blue) ![Engine](https://img.shields.io/badge/Engine-UE%205.6-blue) ![SML](https://img.shields.io/badge/SML-3.12-blue) ![Multiplayer](https://img.shields.io/badge/Multiplayer-Supported-brightgreen) ![AI Assisted Development Used](https://img.shields.io/badge/AI%20Assisted%20Development%20Used-Disclosure%20Below-blue)
 
 **Quick links:** [Usage](#-usage) • [Before you run it](#-before-you-run-it) • [FAQ](#-frequently-asked-questions) • [Discord](https://discord.gg/SgXY4CwXYw)
 
@@ -37,7 +37,7 @@ Open chat (`Enter`) and type:
 
 - **Back up your save first.** The command dismantles paths in one shot; there is no undo besides reloading.
 - **Vehicles using removed paths will stop** where they are and will need new paths recorded. That's the point — but it means your truck network pauses until you re-record routes.
-- In **multiplayer**, run the command as the **host**. The path system lives on the server, so the command politely refuses on clients.
+- In **multiplayer**, run the command as the **host** (or on the dedicated server). The path system lives on the server, so the command politely refuses on clients.
 
 ---
 
@@ -69,7 +69,7 @@ Yes. The mod only removes things; it stores nothing in your save. Install, clean
 
 ### Does it work on dedicated servers?
 
-The release is packaged for the game client, which covers single-player and hosting multiplayer from your machine. If you need a dedicated-server build, ask on Discord.
+Yes. The release is packaged for the game client and for dedicated servers on both Windows and Linux, which covers most hosted-server providers. Install the same version on the server and on every client; the command typed in chat executes server-side. Note that any connected player can run chat commands on a dedicated server, so coordinate with your crew before clearing.
 
 ---
 
@@ -78,6 +78,17 @@ The release is packaged for the game client, which covers single-player and host
 - **Discord:** https://discord.gg/SgXY4CwXYw (the Smart! mod Discord — same developer)
 
 If something behaves unexpectedly, include your Satisfactory version, the command you ran, what `/clearvehiclepaths count` reports, and your `FactoryGame.log`.
+
+---
+
+## 💰 Support Development
+
+Clear Vehicle Paths is a small community tool by the developer of the [Smart!](https://ficsit.app/mod/SmartFoundations) mod. Support is completely optional, but if this saved you from dismantling a thousand path segments by hand and you want to help keep development sustainable, Ko-fi contributions are appreciated.
+
+- **Direct support via Ko-fi:** [Support Finalomega on Ko-fi](https://ko-fi.com/finalomega)
+- **Report bugs clearly:** Include your Satisfactory version, the command you ran, what `/clearvehiclepaths count` reports, and your `FactoryGame.log`.
+
+No pressure — every kind of support helps.
 
 ---
 
