@@ -6,6 +6,7 @@
 	"Description": "Adds the /clearvehiclepaths chat command to dismantle vehicle path segments map-wide. Defaults to legacy (pre-1.2 converted) paths only; '/clearvehiclepaths all' removes every path; '/clearvehiclepaths count' is a dry run.",
 	"Category": "Modding",
 	"CreatedBy": "Finalomega",
+	"PluginIconPath": "Resources/Icon128.png",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
