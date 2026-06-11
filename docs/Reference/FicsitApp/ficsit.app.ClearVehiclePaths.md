@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Released-brightgreen) ![Version](https://img.shields.io/badge/Version-1.0.0-blue) ![Satisfactory](https://img.shields.io/badge/Satisfactory-1.2-blue) ![Engine](https://img.shields.io/badge/Engine-UE%205.6-blue) ![SML](https://img.shields.io/badge/SML-3.12-blue) ![Multiplayer](https://img.shields.io/badge/Multiplayer-Supported-brightgreen) ![AI Assisted Development Used](https://img.shields.io/badge/AI%20Assisted%20Development%20Used-Disclosure%20Below-blue)
 
-**Quick links:** [Usage](#-usage) • [Before you run it](#-before-you-run-it) • [FAQ](#-frequently-asked-questions) • [Discord](https://discord.gg/SgXY4CwXYw)
+**Quick links:** [Usage](#-usage) • [Before you run it](#-before-you-run-it) • [FAQ](#-frequently-asked-questions) • [Discord](https://discord.gg/SgXY4CwXYw) • [Report bugs](https://github.com/majormer/ClearVehiclePaths/issues) • [Source](https://github.com/majormer/ClearVehiclePaths)
 
 ---
 
@@ -75,6 +75,8 @@ Yes. The release is packaged for the game client and for dedicated servers on bo
 
 ## 💬 Getting Help
 
+- **Bug reports:** https://github.com/majormer/ClearVehiclePaths/issues
+- **Source:** https://github.com/majormer/ClearVehiclePaths
 - **Discord:** https://discord.gg/SgXY4CwXYw (the Smart! mod Discord — same developer)
 
 If something behaves unexpectedly, include your Satisfactory version, the command you ran, what `/clearvehiclepaths count` reports, and your `FactoryGame.log`.
