@@ -20,6 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - `/clearvehiclepaths` (or `legacy`) — removes only paths converted from a pre-1.2 save; paths drawn with the new 1.2 tools are untouched.
   - `/clearvehiclepaths all` — removes every vehicle path on the map, including new-style paths and standalone path nodes.
   - `/cvp` — short alias for all of the above.
+  - Thanks to Doug "the plug" Eiffel for the request, the requirements, and verifying the fix on his save.
 - Removal goes through the game's own dismantle handling, so path networks rebuild cleanly, vehicles on removed paths stop safely (and need new paths recorded), and nothing is hand-edited in the save. The mod stores nothing in your save and can be uninstalled after use.
 - In multiplayer, the command runs on the host or dedicated server; clients are told to ask the host to run it.
 - **Packaged for dedicated servers** — the release includes server builds for Windows and Linux alongside the game client, covering most hosted-server providers. Install the same version on the server and on every client.

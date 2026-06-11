@@ -92,6 +92,13 @@ No pressure — every kind of support helps.
 
 ---
 
+## 👥 Credits
+
+- **Finalomega** — Developer. Also the developer of the [Smart!](https://ficsit.app/mod/SmartFoundations) mod.
+- **Doug "the plug" Eiffel** — for hooking me up with Gursoy. (Reached out with the problem and the requirements that became this mod, then verified the fix on his save. The credit text is his own — inside joke.)
+
+---
+
 ## 🤖 AI Disclosure
 
 Clear Vehicle Paths uses AI-assisted development. AI tools help with investigation, drafting, refactoring, documentation, and debugging support. Final decisions, testing, release preparation, and maintenance remain the responsibility of the project maintainer.
