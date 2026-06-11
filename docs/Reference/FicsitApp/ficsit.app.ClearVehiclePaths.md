@@ -1,4 +1,4 @@
-# Clear Vehicle Paths
+# <img src="https://github.com/majormer/ClearVehiclePaths/blob/main/docs/Reference/FicsitApp/image.png?raw=true" width="150" alt="Clear Vehicle Paths"> Clear Vehicle Paths
 
 ![Status](https://img.shields.io/badge/Status-Released-brightgreen) ![Version](https://img.shields.io/badge/Version-1.0.0-blue) ![Satisfactory](https://img.shields.io/badge/Satisfactory-1.2-blue) ![Engine](https://img.shields.io/badge/Engine-UE%205.6-blue) ![SML](https://img.shields.io/badge/SML-3.12-blue) ![Multiplayer](https://img.shields.io/badge/Multiplayer-Supported-brightgreen) ![AI Assisted Development Used](https://img.shields.io/badge/AI%20Assisted%20Development%20Used-Disclosure%20Below-blue)
 
